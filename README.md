@@ -21,8 +21,8 @@
 </div><br>
 
 <div>
-  <a href="https://www.linkedin.com/in/alexferreira-asfuture/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targt="_blank" />
-  <a href="https://www.youtube.com/@alexferreiraasfuture214" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" targt="_blank" />
+  <a href="https://www.linkedin.com/in/alexferreira-asfuture/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.youtube.com/@alexferreiraasfuture214" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
     
   </a>
 </div><br>
